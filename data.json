@@ -1,0 +1,64 @@
+{
+    "profile": {
+        "about": "Je m'appelle Théo GUICHARD, j'ai 19 ans. Je suis actuellement à la recherche d'une alternance en développement web à partir du mois de Septembre 2021. J'adore apprendre de nouvelles technologies.",
+        "contact": {
+            "mail": "theo.guichard06260@gmail.com",
+            "tel": "+33 7 82 78 44 73",
+            "address": "06260 Puget-Théniers"
+        }
+    },
+    "experiences": {
+        "education": [
+            {
+                "name": "EPITECH",
+                "adress": "06300 Nice",
+                "dates": "Septembre 2020-Juillet 2021",
+                "description": "Ecole d'informatique - Promotion 2025"
+            },
+            {
+                "name": "Lycée les Eucalyptus",
+                "adress": "06200 Nice",
+                "dates": "Septembre 2017-Juillet 2020",
+                "description": "Bac STI2D option Système Informatique et Numérique (SIN)"
+            }
+        ],
+        "work": [
+            {
+                "name": "PÉPINOU",
+                "adress": "06260 Puget-Théniers",
+                "dates": "Juin 2020-Août 2020",
+                "position": "Jardinier",
+                "description": "Job d'été - Débroussaillage, élagage, tonte, taille de haies..."
+            },
+            {
+                "name": "Imprimerie Corporandy",
+                "adress": "06260 Puget-Théniers",
+                "dates": "Décembre 2016",
+                "position": "Stagiaire",
+                "description": "Stage de découverte en 3ème"
+            }
+        ],
+        "associations": [
+            {
+                "name": "Association lycéenne Maison des Jeunes",
+                "adress": "06200 Nice",
+                "dates": "Septembre 2019-Juillet 2020",
+                "position": "Président de l'association",
+                "description": "Organisation d'activitée au sein du lycée, mise à disposition d'un local aux adhérents pour se reposer, se divertir ou travailler."
+            }
+        ]
+    },
+    "skills": {
+        "programming_language": [
+            "C : Niveau avancé",
+            "Python : Niveau intermédiaire",
+            "Arduino (basé sur le C++) : Niveau débutant",
+            "HTML / CSS / JS : Niveau intermédiaire"
+        ],
+        "language": [
+            "Français : Langue maternelle",
+            "Anglais : B1, TOEIC: 625",
+            "Italien : A2"
+        ]
+    }
+}
